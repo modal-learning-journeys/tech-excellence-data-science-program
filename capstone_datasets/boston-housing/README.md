@@ -22,3 +22,14 @@ river; 0 otherwise)
 by town
 13. LSTAT % lower status of the population
 14. MEDV Median value of owner-occupied homes in $1000's
+
+## Dataset
+[Dataset Link](https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset)
+
+Sources:
+(a) Origin: This dataset was taken from the StatLib library which is
+maintained at Carnegie Mellon University.
+(b) Creator: Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the
+demand for clean air', J. Environ. Economics & Management,
+vol.5, 81-102, 1978.
+(c) Date: July 7, 1993

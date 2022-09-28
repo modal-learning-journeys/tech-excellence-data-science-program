@@ -11,7 +11,7 @@ You may be surprised by the results!
 
 This dataset combines three sources of data, all of which are based on information from the book series.
 
-Firstly, there is battles.csv which contains Chris Albon's "The
+Firstly, there is `battles.csv` which contains Chris Albon's "The
 War of the Five Kings" Dataset. Its a
 great collection of all of the battles in the series.
 
@@ -23,3 +23,5 @@ Finally we have a more comprehensive character dataset with
 `character-predictions.csv`. It
 includes their predictions on which character will die."
 
+## Source
+[Game of Thrones Dataset](https://www.kaggle.com/datasets/mylesoneill/game-of-thrones)

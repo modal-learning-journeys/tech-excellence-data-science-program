@@ -4,7 +4,7 @@
 
 Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. <b>This is a fictional data set created by IBM data scientists.</b>
 
-Education
+`Education`
 
 1 'Below College'
 
@@ -17,7 +17,7 @@ Education
 5 'Doctor'
 
 
-EnvironmentSatisfaction
+`EnvironmentSatisfaction`
 
 1 'Low'
 
@@ -28,7 +28,7 @@ EnvironmentSatisfaction
 4 'Very High'
 
 
-JobInvolvement
+`JobInvolvement`
 
 1 'Low'
 
@@ -40,7 +40,7 @@ JobInvolvement
 
 
 
-JobSatisfaction
+`JobSatisfaction`
 
 1 'Low'
 
@@ -61,7 +61,8 @@ PerformanceRating
 
 4 'Outstanding'
 
-RelationshipSatisfaction
+
+`RelationshipSatisfaction`
 
 1 'Low'
 
@@ -71,10 +72,15 @@ RelationshipSatisfaction
 
 4 'Very High'
 
-WorkLifeBalance
+
+`WorkLifeBalance`
+
 1 'Bad'
+
 2 'Good'
+
 3 'Better'
+
 4 'Best'
 
 ## Sources
